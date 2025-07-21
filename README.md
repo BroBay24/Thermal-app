@@ -1,16 +1,16 @@
-# 🔥 Thermal Camera Segmentation App
+# Thermal Camera Segmentation App
 
-Aplikasi ini mensimulasikan segmentasi gambar thermal tubuh manusia menggunakan **kamera laptop** dan menampilkan hasilnya dengan **background gelap**.
+Simulasi segmentasi gambar thermal tubuh manusia menggunakan **kamera laptop**
 
-## ✅ Fitur
+## Penjelasan
 - Input dari kamera laptop (simulasi thermal)
 - Segmentasi area panas menggunakan threshold
-- Tampilkan hasil secara real-time
+- hasil secara real-time
 - Dibuat dengan: `Streamlit` + `OpenCV`
 
 ---
 
-## 🚀 Cara Menjalankan (Lokal)
+##  Cara Menjalankan (Lokal)
 
 1. **Clone atau ekstrak zip**:
    ```bash
@@ -37,7 +37,5 @@ Aplikasi ini mensimulasikan segmentasi gambar thermal tubuh manusia menggunakan 
 
 ## ⚠️ Catatan
 
-- Aplikasi ini hanya berjalan **di lokal (PC/laptop)** karena Google Colab **tidak bisa mengakses webcam secara langsung**.
-- Jika ingin segmentasi gambar thermal dari **gambar upload** (tanpa webcam), gunakan versi Colab yang sudah dimodifikasi.
-
----
+- hanya bisa lokal (PC/laptop)** karena Google Colab **tidak bisa mengakses webcam**.
+- bisa pakai collab tp harus mod 
