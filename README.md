@@ -40,7 +40,12 @@ Simulasi segmentasi gambar thermal tubuh manusia menggunakan **kamera laptop**
 - hanya bisa lokal (PC/laptop)** karena Google Colab **tidak bisa akses webcam**.
 - bisa pakai collab tp harus mod
 
-## Hasil Screenshot
+## Hasil Screenshot dengan Threeshold 114
 
 <img width="1693" height="913" alt="Thernal" src="https://github.com/user-attachments/assets/6c7e8a80-2d69-44d0-a26d-a7a407099263" />
+
+## Hasil Screenshot dengan Threeshold 150 
+
+<img width="1694" height="905" alt="image" src="https://github.com/user-attachments/assets/d09901c2-f2e5-4539-9f5f-246f1f64d52e" />
+
 
