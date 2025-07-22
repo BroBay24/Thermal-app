@@ -42,4 +42,4 @@ Simulasi segmentasi gambar thermal tubuh manusia menggunakan **kamera laptop**
 
 ## Hasil Screenshot
 
-![Alt Text]("Pictures\Screenshots\Thernal.png")
+![Alt Text](https://drive.google.com/file/d/1EhWIeGnycKu1Lky9COQPO2gMgjyOiGdw/view?usp=sharing)
