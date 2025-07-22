@@ -38,4 +38,8 @@ Simulasi segmentasi gambar thermal tubuh manusia menggunakan **kamera laptop**
 ## Catatan
 
 - hanya bisa lokal (PC/laptop)** karena Google Colab **tidak bisa akses webcam**.
-- bisa pakai collab tp harus mod 
+- bisa pakai collab tp harus mod
+
+## Hasil Screenshot
+
+![Alt Text](images/screenshot.png)
